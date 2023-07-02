@@ -4,6 +4,5 @@
  
  <a href="https://instagram.com/ofclunky" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
- <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://tenor.com/pt-BR/view/baby-yoda-love-cute-gif-24697418)https://tenor.com/pt-BR/view/baby-yoda-love-cute-gif-24697418"></a>
--->
+ 
 
