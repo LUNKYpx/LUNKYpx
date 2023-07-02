@@ -1,6 +1,6 @@
 # Olá, me chamo "Lunky" ! 
 ## Bem vindo ao meu perfil GitHub 👾
- 🔭 Atualmente estou trabalhando em: HKBRS. 
+- 🔭 Atualmente estou trabalhando em: HKBRS. 
 - 🌱 Atualmente estou aprendendo: Estoicismo.
 - 👯 Estou procurando colaborar em: Dev.
 - 🤔 Estou procurando ajuda com: Dev de software.
